@@ -1,0 +1,4 @@
+Hash implementation of set, interface         ‰   ‰HashSet.h
+    Implementation                            ‰   ‰HashSet.cpp
+Test: frequencies of words in a text          ‰   ‰wordfreq.cpp
+Another test: Phone Book                      ‰   ‰phoneBook.cpp
